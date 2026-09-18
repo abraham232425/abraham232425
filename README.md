@@ -21,7 +21,7 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **Visualización de Datos**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-437861?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-437861?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-6A7282?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-F05032?style=for-the-badge&logo=plotly&logoColor=white)
 
