@@ -46,7 +46,9 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
+### Contactame 
+
+📧 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
