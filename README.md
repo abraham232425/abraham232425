@@ -22,11 +22,8 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 
 #### **Visualización de Datos**
 <img src="https://camo.githubusercontent.com/b569eb80f51f524d51060802ebb405a37469cc1594f319c5b07a0012db3620fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f6c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Jupyter" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&amp;logoColor=white" style="max-width: 100%;">
-
 <img src="https://camo.githubusercontent.com/b569eb80f51f524d51060802ebb405a37469cc1594f319c5b07a0012db3620fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f6c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Jupyter" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&amp;logoColor=white" style="max-width: 100%;">
-
 ![Seaborn](https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge&logo=seaborn&logoColor=white)
-
 ![Plotly](https://img.shields.io/badge/Plotly-F05032?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### **Gestión de Control de Versiones y Repositorios**
