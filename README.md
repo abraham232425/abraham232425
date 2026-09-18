@@ -46,14 +46,10 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 
 ---
 
-### Contactame 
+### 📬 Conécta conmigo
 
-📧 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
-</p>
+📧 Email: gomez.rangel.abraham@gmail.com
+💼 LinkedIn: www.linkedin.com/in/abraham-gomez-rangel
 
 ---
 
