@@ -34,10 +34,8 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 
 ### 📂 Proyectos Destacados
 
-#### 🚀 [Nombre de tu Proyecto de Análisis 1](https://github.com/tu-usuario/nombre-repo-1)
-> *Análisis exploratorio de datos (EDA) y automatización de reportes.*
-- **Herramientas:** Python, Pandas, Jupyter Notebooks.
-- **Resumen:** Procesamiento y limpieza de datasets para generación de insights clave.
+#### 🚀 [[001-Megaline](https://github.com/abraham232425/001-Megaline)
+
 
 #### 📊 [Nombre de tu Proyecto 2](https://github.com/tu-usuario/nombre-repo-2)
 > *Automatización e interacción con bases de datos SQL.*
