@@ -26,7 +26,7 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 ![Plotly](https://img.shields.io/badge/Plotly-F05032?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### **Gestión de Control de Versiones y Repositorios**
-![PowerShell](https://img.shields.io/badge/Power_Shell-2984D1?style=for-the-badge&logo=power-shell&logoColor=black)
+![PowerShell](https://img.shields.io/badge/Power_Shell-A3B3FF?style=for-the-badge&logo=power-shell&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
