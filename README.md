@@ -22,7 +22,7 @@ Ingeniero en Sistemas enfocado en la **Gestión de TI** y en la **Transición ha
 
 #### **Visualización de Datos**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-437861?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-6A7282?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-F05032?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### **Gestión de Control de Versiones y Repositorios**
